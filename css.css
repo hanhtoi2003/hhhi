@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.piz{
+    height: 40px;
+    display: flex;
+    background:#008f47;
+}
+.for_you {
+    font-size: 17px;
+}
+.piza{
+    display: flex;
+    margin-top: 10px;
+}
+.logisn-a-right {
+    margin-left: 215px;
+    margin-top: 10px;
+}
+.piz{
+    color: aliceblue;
+    font-size: 17;
+    padding: 0 20px;
+}
+.piza a:hover{
+    color: violet;
+}
+.piza p:hover{
+    color: violet;
+}
+.piza p{
+    margin-left: 15px;
+}
+.logisn-a-right a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.logisn-a-right a:hover{
+    color: violet;
+}
+.piza a{
+    cursor: pointer;
+    color: aliceblue;
+    text-decoration: none;
+}
+.zad{
+    height: 90px;
+    background: violet;
+    position: relative;
+}
+.menu2-class1 img{
+    height: 90px;
+    width: 115px;
+}
+.for-end ul{
+    font-size: 20px;
+    display: flex;
+
+}
+.for-end ul li{
+    cursor: pointer;
+    list-style: none;
+}
+.titile__text {
+    padding: 40px 10px;
+    margin: 0 20px;
+}
+.titile__text li {
+    padding: 0 20px;
+    list-style: none;
+}
+.titile__text li a{
+    text-decoration: none;
+
+}
+.for-end li:hover{
+    color: rgb(255, 0, 0);
+}
+.for-end {
+    margin-left: 13%;
+    margin-top: -100px;
+}
+.searchhd {
+    margin-top: -60px;
+    margin-left: 86%;
+}
+.iconsearch {
+    cursor: pointer;
+}
+.icon_hotline{
+    margin-left: 90%;
+    margin-top: -20px;
+    color: black;
+}
+.icon_hotline span:hover{
+    color: red;
+}
+.icon_hotline i:hover{
+    color: red;
+}
